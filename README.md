@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,python,c#,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,python,c#,bash,powershell,java,&perline=5)](https://skillicons.dev)
 
 <!--
 **SirBomble/sirbomble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
